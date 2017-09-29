@@ -17,5 +17,5 @@ Homework List
 > - 核对自己在2016年秋季计算物理课程学生列表中自己的分班和作业链接是否正确，有问题下次上课一并更正(2016???)
 ## [Homework_03](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework_03.md)
 > - 使自己的名字移动
-## [Homeworl_04]()
+## [Homeworl_04](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch1-1.4.md)
 > - 第一章习题任选一题
