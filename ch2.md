@@ -7,7 +7,6 @@ problem2.7&8
 
 贾雪巍 2015301020090
 
-图片打开好慢啊-_-#
 ----------
 
 
@@ -45,7 +44,7 @@ gh is the gravitational acceleration at height h above sea level.
 re is the Earth's mean radius.
 g0 is the standard gravitational acceleration.
 The formula treats the Earth as a perfect sphere with a radially symmetric distribution of mass; a more accurate mathematical treatment is discussed below(from wikipedia).
-## [Code]()
+## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch2.py）
 --------------------
 ## Results and Analysis
 ----------
@@ -67,8 +66,8 @@ Compare these two pic,we can see cannon's range reduce a lot .
 ( numbers under the plot are the maximum range and the launch angle to achieve it.)
 ---------------------
 
-**The maximum range reduce from 50049.49 to 24523.79(about51.0%)
-The launch angle to achieve it also become smaller(from 45.0 to 43.2)**
+The maximum range reduce from 50049.49 to 24523.79(about51.0%)
+The launch angle to achieve it also become smaller(from 45.0 to 43.2)
 
 
 ----------
@@ -89,8 +88,8 @@ Compare these two pic,we can see cannon's range reduce .
 ( numbers under the plot are the maximum range and the launch angle to achieve it.)
 -----------------------
 
-**The maximum range reduce from30320.25to 24194.66 in summer.(about20.2%).However,both range in winter and summer fall a lot compared with 300K.
-The launch angle to achieve it in winter is 43.2 which is closed to reference temperature.The angle in summer is 45.0 which is closed to the ideal condition.**
+The maximum range reduce from30320.25to 24194.66 in summer.(about20.2%).However,both range in winter and summer fall a lot compared with 300K.
+The launch angle to achieve it in winter is 43.2 which is closed to reference temperature.The angle in summer is 45.0 which is closed to the ideal condition.
 
 
 **3.Incorporate the effects of g**
@@ -101,7 +100,11 @@ The launch angle to achieve it in winter is 43.2 which is closed to reference te
 > - g
 ![fig11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g%20range.png)
 > - gh
-![fig12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh%20range.png)
-**It seems that g has very little effect on the trajectory.**
+![fig12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh%20range.png).
+---------------------------------
+
+It seems that g has very little effect on the trajectory.
+
+
 
 
