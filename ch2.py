@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import math
+import numpy as np
 g=9.8
 def Trajectory(velocity,angle,Temp):
     velocity_x=[velocity*math.cos(angle)]
@@ -32,19 +33,19 @@ def Trajectory(velocity,angle,Temp):
 
 alpha=[]
 Range=[]
-#plt.xlabel('x/m')
-#plt.ylabel('y/m')
-#plt.title('The trajectory of a cannon shell')
-for i in range(100):
-    angle=i*math.pi/200
+plt.xlabel('x/m')
+plt.ylabel('y/m')
+plt.title('The trajectory of a cannon shell')
+for i in range(10):
+    angle=i*math.pi/20
     t=Trajectory(700,angle,300)
-    #plt.plot(t[0],t[1])
-    alpha.append(angle)
-    Range.append(t[2])
-
-plt.plot(np.array(alpha),np.array(Range),'o')
+    plt.plot(t[0],t[1])
+    #alpha.append(angle)
+    #Range.append(t[2]) #to get the maximum range
+plt.xlim(0,30000)
+#plt.plot(np.array(alpha),np.array(Range),'o')
 plt.show()
-R=max(Range)
-l=Range.index(R)
-A=alpha[l]/math.pi*180
-print(A,R)
+#R=max(Range)
+#l=Range.index(R)
+#A=alpha[l]/math.pi*180
+#print(A,R)
