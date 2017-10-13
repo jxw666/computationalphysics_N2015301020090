@@ -105,6 +105,13 @@ The launch angle to achieve it in winter is 43.2 which is closed to reference te
 
 It seems that g has very little effect on the trajectory.
 
+--------
+PS.pygame
+已安装pygame
 
+import pygame   
+from pygame.locals import *  
+pygame.init()  
+pygame.display.set_mode((600,500)) 一直报错...(I'm still working on it!)
 
 
