@@ -44,7 +44,7 @@ gh is the gravitational acceleration at height h above sea level.
 re is the Earth's mean radius.
 g0 is the standard gravitational acceleration.
 The formula treats the Earth as a perfect sphere with a radially symmetric distribution of mass; a more accurate mathematical treatment is discussed below(from wikipedia).
-## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch2.py）
+## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch2.py)
 --------------------
 ## Results and Analysis
 ----------
