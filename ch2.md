@@ -38,9 +38,9 @@ $a\approx6.5\times{10^-}^3$K/m,$T_0$is the sea level temperature,$\alpha\approx2
 <a href="http://www.codecogs.com/eqnedit.php?latex=$$g_h=g_0(\frac{r_e}{r_e&plus;h})^2$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$g_h=g_0(\frac{r_e}{r_e&plus;h})^2$$" title="$$g_h=g_0(\frac{r_e}{r_e+h})^2$$" /></a>
 Where
 
-g<sub>h is the gravitational acceleration at height h above sea level.
-r<sub>e is the Earth's mean radius.
-g<sub>0 is the standard gravitational acceleration.
+gh is the gravitational acceleration at height h above sea level.
+re is the Earth's mean radius.
+g0 is the standard gravitational acceleration.
 The formula treats the Earth as a perfect sphere with a radially symmetric distribution of mass; a more accurate mathematical treatment is discussed below(from wikipedia).
 ## [Code]()
 --------------------
@@ -48,7 +48,8 @@ The formula treats the Earth as a perfect sphere with a radially symmetric distr
 ----------
 
 ###1.Use the adiabatic model of air density
-![Fig1]()
+![Fig1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-1.png)
+![Fig2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-2.png)
  - when we ignore the air resistance. 
  - when we consider the air resistance and air density.
 
