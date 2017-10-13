@@ -3,8 +3,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 # Chapter_two_section2.2
+problem2.7&8
 
+贾雪巍 2015301020090
 
+图片打开好慢啊-_-#
 ----------
 
 
@@ -47,53 +50,53 @@ The formula treats the Earth as a perfect sphere with a radially symmetric distr
 ## Results and Analysis
 ----------
 
-###1.Use the adiabatic model of air density
+**1.Use the adiabatic model of air density**
  - when we ignore the air resistance. 
 ![Fig2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-2.png)
  - when we consider the air resistance and air density.
  ![Fig1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-1.png)
-> - When we consider  air resistance,the trajectories change a lot.
-> -  The altitude the cannon can reach fall. 
-> -   Compare these two pic,we can see cannon's range reduce a lot .
-ignore air resistance
+When we consider  air resistance,the trajectories change a lot.
+The altitude the cannon can reach fall. 
+Compare these two pic,we can see cannon's range reduce a lot .
+> - ignore air resistance
 ![FIG](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-1range.png)
  45.0 50049.491150831855
-cosider air densitr
+> - cosider air densitr
 ![fig4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-2range.png)
 43.199999999999996 24523.790443161008
-( numbers under the plot are the maximum range and the launch angle to achieve it.)
-> - The maximum range reduce from 50049.49 to 24523.79(about51.0%)
-> - The launch angle to achieve it also become smaller(from 45.0 to 43.2)
+/( numbers under the plot are the maximum range and the launch angle to achieve it.)
+The maximum range reduce from 50049.49 to 24523.79(about51.0%)
+The launch angle to achieve it also become smaller(from 45.0 to 43.2)
 
 
 ----------
 
 
-###2.Incorporate the effects of the temperature
- 253K
+**2.Incorporate the effects of the temperature**
+> - 253K
  ![Fig5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/253.png)
-303K
+> - 303K
 ![FIg6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/303.png)
 Assume that the temperature in winter is 253K and the summer temperature is 303K.
-> -  The altitude the cannon can reach fall in summer .
-> -   Compare these two pic,we can see cannon's range reduce .
- 253K
+The altitude the cannon can reach fall in summer .
+Compare these two pic,we can see cannon's range reduce .
+> - 253K
  ![FIG7](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/253range.png)
- 303K
+ > - 303K
  ![fig8](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/303range.png)
 ( numbers under the plot are the maximum range and the launch angle to achieve it.)
-> - The maximum range reduce from30320.25to 24194.66 in summer.(about20.2%).However,both range in winter and summer fall a lot compared with 300K.
-> - The launch angle to achieve it in winter is 43.2 which is closed to reference temperature.The angle in summer is 45.0 which is closed to the ideal condition.
+The maximum range reduce from30320.25to 24194.66 in summer.(about20.2%).However,both range in winter and summer fall a lot compared with 300K.
+The launch angle to achieve it in winter is 43.2 which is closed to reference temperature.The angle in summer is 45.0 which is closed to the ideal condition.
 
 
-###3.Incorporate the effects of g
-g
+**3.Incorporate the effects of g**
+> - g
 ![Fig9](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g.png)
-gh
+> - gh
 ![fig10](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh.png)
-g
+> - g
 ![fig11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g%20range.png)
-gh
+> - gh
 ![fig12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh%20range.png)
 It seems that g has very little effect on the trajectory.
 
