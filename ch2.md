@@ -55,8 +55,10 @@ The formula treats the Earth as a perfect sphere with a radially symmetric distr
 > - When we consider  air resistance,the trajectories change a lot.
 > -  The altitude the cannon can reach fall. 
 > -   Compare these two pic,we can see cannon's range reduce a lot .
- ![FIG](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-1range.png)
+ignore air resistance
+![FIG](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-1range.png)
  45.0 50049.491150831855
+cosider air densitr
 ![fig4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/2-2range.png)
 43.199999999999996 24523.790443161008
 ( numbers under the plot are the maximum range and the launch angle to achieve it.)
@@ -68,8 +70,10 @@ The formula treats the Earth as a perfect sphere with a radially symmetric distr
 
 
 ###2.Incorporate the effects of the temperature
+ 253K
  ![Fig5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/253.png)
- ![FIg6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/303.png)
+303K
+![FIg6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/303.png)
 Assume that the temperature in winter is 253K and the summer temperature is 303K.
 > -  The altitude the cannon can reach fall in summer .
 > -   Compare these two pic,we can see cannon's range reduce .
@@ -87,8 +91,10 @@ g
 ![Fig9](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g.png)
 gh
 ![fig10](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh.png)
-g![fig11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g%20range.png)
-gh![fig12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh%20range.png)
+g
+![fig11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/g%20range.png)
+gh
+![fig12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/gh%20range.png)
 It seems that g has very little effect on the trajectory.
 
 
