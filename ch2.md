@@ -11,21 +11,21 @@
 ## The Trajectory of a Cannon Shell
 ------------------------------------
 Consider a projectile such as a shell shot by a cannon.If we ignore air resistance,the equation of motions can be obtained from Newton's second law.
-$$ \frac{d^2x}{dt^2}=0$$
-$$\frac{d^2y}{dt^2}=-g$$
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$&space;\frac{d^2x}{dt^2}=0$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$&space;\frac{d^2x}{dt^2}=0$$" title="$$ \frac{d^2x}{dt^2}=0$$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{d^2y}{dt^2}=-g$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{d^2y}{dt^2}=-g$$" title="$$\frac{d^2y}{dt^2}=-g$$" /></a>
 x and y are horizontal and vertical coordinates of the projectile.
 These are second-order differential equations.If we recasting the equations in the following way.
-$$\frac{dx}{dt}=v_x$$
-$$\frac{dv_x}{dt}=0$$
-$$\frac{dy}{dt}=v_y$$
-$$\frac{dv_y}{dt}=-g$$
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{dx}{dt}=v_x$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{dx}{dt}=v_x$$" title="$$\frac{dx}{dt}=v_x$$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{dv_x}{dt}=0$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{dv_x}{dt}=0$$" title="$$\frac{dv_x}{dt}=0$$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{dy}{dt}=v_y$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{dy}{dt}=v_y$$" title="$$\frac{dy}{dt}=v_y$$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{dv_y}{dt}=-g$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{dv_y}{dt}=-g$$" title="$$\frac{dv_y}{dt}=-g$$" /></a>
 We can use Euler method to solve the problem.Then we add air resistance, air density,temperature,gravitational acceleration etc to the model to approach the realistic motion of the cannon and find out how much these factors affect the model.
 
 1.We will assume that the magnitude of the drag force on cannon shell is give by 
-$$F_{drag}=-B_2v^2$$
-where$v=\sqrt{ v_x^2+v_y^2}$is the speed of the shell.
-$$F_{drag,x}=-B_2vv_x$$
-$$F_{drag,y}=-B_2vv_y$$
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$F_{drag}=-B_2v^2$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$F_{drag}=-B_2v^2$$" title="$$F_{drag}=-B_2v^2$$" /></a>
+where<a href="http://www.codecogs.com/eqnedit.php?latex=$v=\sqrt{&space;v_x^2&plus;v_y^2}$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$v=\sqrt{&space;v_x^2&plus;v_y^2}$" title="$v=\sqrt{ v_x^2+v_y^2}$" /></a>is the speed of the shell.
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$F_{drag,x}=-B_2vv_x$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$F_{drag,x}=-B_2vv_x$$" title="$$F_{drag,x}=-B_2vv_x$$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$F_{drag,y}=-B_2vv_y$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$F_{drag,y}=-B_2vv_y$$" title="$$F_{drag,y}=-B_2vv_y$$" /></a>
 2.Air resistance is propotional to the density of the air,so the drag force at high altitude will be less.Treat the atmosphere as an adiabatic ideal gas which leads to that the density depends on altitude according to
 $$\rho=\rho_0(1-\frac{ay}{T_0})^\alpha$$
 We replace $B_2$with$B_2\rho/\rho_0$.
