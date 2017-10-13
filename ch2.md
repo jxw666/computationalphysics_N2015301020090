@@ -27,25 +27,24 @@ where<a href="http://www.codecogs.com/eqnedit.php?latex=$v=\sqrt{&space;v_x^2&pl
 <a href="http://www.codecogs.com/eqnedit.php?latex=$$F_{drag,x}=-B_2vv_x$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$F_{drag,x}=-B_2vv_x$$" title="$$F_{drag,x}=-B_2vv_x$$" /></a>
 <a href="http://www.codecogs.com/eqnedit.php?latex=$$F_{drag,y}=-B_2vv_y$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$F_{drag,y}=-B_2vv_y$$" title="$$F_{drag,y}=-B_2vv_y$$" /></a>
 2.Air resistance is propotional to the density of the air,so the drag force at high altitude will be less.Treat the atmosphere as an adiabatic ideal gas which leads to that the density depends on altitude according to
-$$\rho=\rho_0(1-\frac{ay}{T_0})^\alpha$$
-We replace $B_2$with$B_2\rho/\rho_0$.
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$\rho=\rho_0(1-\frac{ay}{T_0})^\alpha$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\rho=\rho_0(1-\frac{ay}{T_0})^\alpha$$" title="$$\rho=\rho_0(1-\frac{ay}{T_0})^\alpha$$" /></a>
+We replace <a href="http://www.codecogs.com/eqnedit.php?latex=$B_2$with$B_2\rho/\rho_0$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$B_2$with$B_2\rho/\rho_0$" title="$B_2$with$B_2\rho/\rho_0$" /></a>.
 $a\approx6.5\times{10^-}^3$K/m,$T_0$is the sea level temperature,$\alpha\approx2.5$for air
 
-3.Further incorporate the effects off the variation of the ground temperature by replacing$B_2$by$B_2^{ref}(T_0/T_{ref})^\alpha$
-$T_{ref}=300K$,$B_2^{ref}/m=4\times10^{-5}m^{-1}$
+3.Further incorporate the effects off the variation of the ground temperature by replacing<a href="http://www.codecogs.com/eqnedit.php?latex=$B_2$by$B_2^{ref}(T_0/T_{ref})^\alpha$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$B_2$by$B_2^{ref}(T_0/T_{ref})^\alpha$" title="$B_2$by$B_2^{ref}(T_0/T_{ref})^\alpha$" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=$T_{ref}=300K$,$B_2^{ref}/m=4\times10^{-5}m^{-1}$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$T_{ref}=300K$,$B_2^{ref}/m=4\times10^{-5}m^{-1}$" title="$T_{ref}=300K$,$B_2^{ref}/m=4\times10^{-5}m^{-1}$" /></a>
 
 4.Gravity decreases with altitude as one rises above the Earth's surface because greater altitude means greater distance from the Earth's centre.
-$$g_h=g_0(\frac{r_e}{r_e+h})^2$$
-
+<a href="http://www.codecogs.com/eqnedit.php?latex=$$g_h=g_0(\frac{r_e}{r_e&plus;h})^2$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$g_h=g_0(\frac{r_e}{r_e&plus;h})^2$$" title="$$g_h=g_0(\frac{r_e}{r_e+h})^2$$" /></a>
 Where
 
-$g_h$ is the gravitational acceleration at height h above sea level.
-$r_e$ is the Earth's mean radius.
-$g_0$ is the standard gravitational acceleration.
+g<sub>h is the gravitational acceleration at height h above sea level.
+r<sub>e is the Earth's mean radius.
+g<sub>0 is the standard gravitational acceleration.
 The formula treats the Earth as a perfect sphere with a radially symmetric distribution of mass; a more accurate mathematical treatment is discussed below(from wikipedia).
-##[Code]()
+## [Code]()
 --------------------
-##Results and Analysis
+## Results and Analysis
 ----------
 
 ###1.Use the adiabatic model of air density
