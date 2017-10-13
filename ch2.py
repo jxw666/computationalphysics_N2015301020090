@@ -16,7 +16,7 @@ def Trajectory(velocity,angle,Temp):
         v=math.sqrt(vxi**2+vyi**2)
         B=(Temp/300)**2.5*(1-6.5*10**(-3)*y[i]/Temp)**2.5*4*10**(-5)
         vx_dt=vxi-B*v*vxi*dt
-        vy_dt=vyi-B*v*vyi*dt-g*dt
+        vy_dt=vyi-B*v*vyi*dt-g*dt#g*(6371/(6371+y[i]/1000))**2考虑g的影响时
         x_dt=x[i]+vxi*dt
         y_dt=y[i]+vyi*dt
         if y_dt<0:
