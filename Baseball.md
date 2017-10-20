@@ -2,7 +2,7 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
-#Chapter_two_section2.3&4
+# Chapter_two_section2.3&4
 --------------------
 
 贾雪巍 2015301020090
@@ -26,7 +26,7 @@ for baseball<a href="http://www.codecogs.com/eqnedit.php?wlatex=S_0/m\approx4.1\
 <a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)&plus;0.08sin(12\theta)-0.025sin(16\theta)]$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)&plus;0.08sin(12\theta)-0.025sin(16\theta)]$$" title="$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)+0.08sin(12\theta)-0.025sin(16\theta)]$$" /></a>
 
 
-## [Code]()
+## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch3.py)
 --------------------
 
 ## Result&Analysis
@@ -35,16 +35,22 @@ for baseball<a href="http://www.codecogs.com/eqnedit.php?wlatex=S_0/m\approx4.1\
 (I choose this initial angular orientation and angular velocity because it looks ok，others go crazy......-_-#)
 ![FIG1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball1.png)
 ![fig2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball2.png)
+ **When change center of mass velocity,the curve shape doesn't change.**
+ **The largest velocity has the longest range.**
 
 ---------------------------
 2.different w
 ![fig3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball3.png)
 ![fig4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball4.png)
+**pi/5 has the longest range.
+From the x-z figure,I can approximately see how a Knucleball moves.It's hard to say where it lands.**
 
 ----------------
 3.different theta
-we abandon the curves which x<0
+I abandon the curves with x<0
 ![fig5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball5.png)
 ![fig6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball6.png)
-
- 
+**1.8pihas the longest range.Still can't tell how this works.**
+## Defect
+The actual the baseball motion may not have a horizontal velocity.Its spin may be more complicated.And the forces in this model are just approximations which can make our calculaton easier. 
+## The way to catch a knuckleball is to wait until it stops rolling and pick it up.--Bob Uecker哈哈哈
