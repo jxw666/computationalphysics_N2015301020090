@@ -50,7 +50,8 @@ From the x-z figure,I can approximately see how a Knucleball moves.It's hard to 
 I abandon the curves with x<0
 ![fig5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball5.png)
 ![fig6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball6.png)
-**1.8pihas the longest range.Still can't tell how this works.**
+**1.8pihas the longest range.Still can't tell how this works.It is not consistent with my experience -_-#**
 ## Defect
+The air resistance shouldn't have x<0(??),I think the forces in this model are wrong.
 The actual the baseball motion may not have a horizontal velocity.Its spin may be more complicated.And the forces in this model are just approximations which can make our calculaton easier. 
 ## The way to catch a knuckleball is to wait until it stops rolling and pick it up.--Bob Uecker哈哈哈
