@@ -24,9 +24,12 @@ for baseball<a href="http://www.codecogs.com/eqnedit.php?wlatex=S_0/m\approx4.1\
 **3**.  Knuckleball.Baseball is not a total smooth ball.Since the drag force is greater for a smooth ball than for a rough ball,there will be an imbalance on the two sides of the ball,giving a net force in the direction of the rough side.If the ball rotates **slowly** as it moves so that the exposed stitches moves, the force changes direction.For simplicity we will assume that the ball spins about a vertical axis .The force is given approximately by the function
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)&plus;0.08sin(12\theta)-0.025sin(16\theta)]$$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)&plus;0.08sin(12\theta)-0.025sin(16\theta)]$$" title="$$\frac{F_{lateral}}{mg}=0.5[sin(4\theta)-0.25sin(8\theta)+0.08sin(12\theta)-0.025sin(16\theta)]$$" /></a>
-##[Code]()
+
+
+## [Code]()
 --------------------
-##Result&Analysis
+
+## Result&Analysis
 ---------------------
 1.different center of mass velocity
 (I choose this initial angular orientation and angular velocity because it looks ok，others go crazy......-_-#)
