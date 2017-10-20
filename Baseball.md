@@ -33,14 +33,18 @@ for baseball<a href="http://www.codecogs.com/eqnedit.php?wlatex=S_0/m\approx4.1\
 ---------------------
 1.different center of mass velocity
 (I choose this initial angular orientation and angular velocity because it looks ok，others go crazy......-_-#)
-![FIG1]()
-![fig2]()
+![FIG1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball1.png)
+![fig2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball2.png)
+
+---------------------------
 2.different w
-![fig3]()
-![fig4]()
+![fig3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball3.png)
+![fig4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball4.png)
+
+----------------
 3.different theta
 we abandon the curves which x<0
-![fig5]()
-![fig6]()
+![fig5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball5.png)
+![fig6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ball6.png)
 
  
