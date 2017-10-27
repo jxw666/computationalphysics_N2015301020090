@@ -44,7 +44,9 @@ T=100s
 ![5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/chaos5.png)
 T=1000s
 ![6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/chaos6.png)
+
 (I think there are many horizontal lines because of resetting angles from -pi to pi)
+
 3.Poincare section
 Then we plot w versus theta only at times that w_D=2npi,where n is an integer.
 
