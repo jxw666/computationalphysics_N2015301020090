@@ -21,4 +21,7 @@ Homework List
 > - 第一章习题任选一题
 ## [Homework_05](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch2.md)
 ## [Homework_06](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Baseball.md)
-> -Baseball
+> - Baseball
+## [Homework_07](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Chaos.md)
+> - Chaos
+ 
