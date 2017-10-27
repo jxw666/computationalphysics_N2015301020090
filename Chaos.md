@@ -67,5 +67,11 @@ for F_D=1.2
  ![](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/pi:4%2020.png)
  
  ----------
-It's not sensitive to the initial value
+It's not sensitive to the initial value.
+"special attractor"?
+The behavior in the chaotic regime is not completely random,but can be describe by a strange attractor in phase space.
+## Attractor in wikipedia
+In the mathematical field of dynamical systems, an attractor is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system. System values that get close enough to the attractor values remain close even if slightly disturbed.
+
+An attractor is called strange if it has a fractal structure. This is often the case when the dynamics on it are chaotic, but strange nonchaotic attractors also exist. If a strange attractor is chaotic, exhibiting sensitive dependence on initial conditions, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together. Thus a dynamic system with a chaotic attractor is locally unstable yet globally stable: once some sequences have entered the attractor, nearby points diverge from one another but never depart from the attractor.
  
