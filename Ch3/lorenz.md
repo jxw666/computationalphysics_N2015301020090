@@ -7,7 +7,7 @@
 problem3.26&27
 
 --------
-## Background
+##  Background
 -------
 
 E.N.Lorenz atmospheric scientist(not Lorentz!) studied the Navier-Stokes equations and the Rayleigh-Benard problem,which concerns a fluid in a container whose top and bottom surfaces are held at different temperatures.It had long been know that as the difference between these two temperature is increased, the fluid can undergo transitions from a stationary state to steady flow to chaotic flow.He considered a **greatly simplified** version of Navier-Stokes equationas as applied to this particular problem.He grossly oversimplified the problem as he reduced it to only three equations
@@ -19,9 +19,9 @@ E.N.Lorenz atmospheric scientist(not Lorentz!) studied the Navier-Stokes equatio
 
 
 -------
-##[Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Ch3/lorenz.py)
+## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Ch3/lorenz.py)
 -----
-##Results&Analysis
+## Results&Analysis
 -------------
 1.Phase-space
 Construct a phase-space plot model for the Lorenz model.Imagine that x,y and z are coordinates in some abstract space.
