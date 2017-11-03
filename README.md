@@ -24,4 +24,5 @@ Homework List
 > - Baseball
 ## [Homework_07](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Chaos.md)
 > - Chaos
- 
+## [Homework_08](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Ch3/lorenz.md)
+> - Lorenz Model
