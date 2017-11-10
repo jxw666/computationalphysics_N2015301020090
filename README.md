@@ -28,4 +28,4 @@ Homework List
 > - Lorenz Model
 
 ## [09](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/Chapter_three_chaos_section3.7.md)
-## [期中］()
+## [期中]()
