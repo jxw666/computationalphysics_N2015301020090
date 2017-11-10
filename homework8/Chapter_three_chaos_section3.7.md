@@ -46,7 +46,7 @@ Trajectory&phase-space plot
 
 3.with a circular interior wall located slightly off-center
 
-![5]()https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/5.png)
+![5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/5.png)
 
 ![6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/6.png)
 ![](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/7.png)
