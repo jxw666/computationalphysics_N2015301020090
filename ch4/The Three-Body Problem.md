@@ -10,33 +10,33 @@ In this section we'll consider  one of the simplest three-body problems,the Sun 
 
 Problem 4.16 require us  to carry out a stimulation which consider Earth,Jupiter&the Sun.And take the center of mass as the origin.I don't know how to choose the initial positons of the planets so I just assume that they are all in x-axis and the initial speed directions are parallel to y-axis.
 
-## [Codes]()
+## [Codes](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/ch4.py)
 
 ## Results&Analysis
 
 1.When the mass of Jupiter is unchanged.
 
-![1]()
+![1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/1.png)
 
 Two planets circulate around the sun.The sun is also moving along y-axis.
 
 2.The mass of jupiter increased to 10 times of its true mass.
 
-  ![2]()
+  ![2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/2.png)
 
 3.The mass of jupiter increased to 100 times of its true mass.
 
-![3]()
+![3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/3.png)
 
 4.The mass of jupiter increased to 300 times of its true mass.
 
-![6]()
+![6]( https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/6.png)
 
 
 
 5.The mass of jupiter increased to 1000 times of its true mass.
 
-![4]()
+![4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/4.png)
 
 Jupiter drifts apart but Earth still moves around the Sun
 
@@ -44,7 +44,7 @@ Jupiter drifts apart but Earth still moves around the Sun
 
 The text book suggests us to give the Sun an initial velocity to make the total momentum of the the system exactly zero so that the center of mass will remain fixed.However,here's the result I got.
 
-![5]()
+![5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/5.png)
 
 
 
