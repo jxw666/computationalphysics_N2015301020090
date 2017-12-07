@@ -26,8 +26,8 @@ Homework List
 ## [Homework_08](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/Ch3/lorenz.md)
 > - Lorenz Model
 
-## [09](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/Chapter_three_chaos_section3.7.md)
+## [Homework_09](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/homework8/Chapter_three_chaos_section3.7.md)
 ## [期中](https://scratch.mit.edu/projects/185313150/#player)
- We sincerely hope that Prof Cai will soon be restored to health:-)
 ## [Homework_10](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/The%20Three-Body%20Problem.md)
 Three body problem
+## [Homework_11]()
