@@ -30,4 +30,4 @@ Homework List
 ## [期中](https://scratch.mit.edu/projects/185313150/#player)
 ## [Homework_10](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch4/The%20Three-Body%20Problem.md)
 Three body problem
-## [Homework_11]()
+## [Homework_11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/Electric%20Potentials%20.md)
