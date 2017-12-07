@@ -16,7 +16,7 @@ Problem5.3consider the potential between two parallel capacitor plates.And based
 
 ![2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/2.png)
 
-![2'](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/2.png)
+![2'](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/2'.png)
 
 ![3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/3.png)
 
