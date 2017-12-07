@@ -8,19 +8,22 @@ The reigons of space that do not contain any electric charges,the potential obey
 
 Problem5.3consider the potential between two parallel capacitor plates.And based on the symmetry ,we just need to calculate the result in one quadrant of the x-y plane.
 
-![1]()
+![1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/1.png)
 
-## [Code]()
+## [Code](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/ch5.py)
 
 ## Results&Analysis
 
-![2]()
+![2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/2.png)
 
-![2']()
+![2'](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/2.png)
 
-![3]()
+![3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/3.png)
 
-![4]()
+![4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/4.png)
+## Acknowlegement
+
+I want to thank Junyi Shangguan.Her method to set the potential is awesome!
 
 
 
