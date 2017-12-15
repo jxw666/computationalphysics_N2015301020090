@@ -1,5 +1,6 @@
 # computationalphysics_N2015301020090
 姓名：贾雪巍 学号：2015301020090
+textbook:Computational Physics, Nicholas J. Giordano & Hisao Nakanishi
 
 
 Homework List
