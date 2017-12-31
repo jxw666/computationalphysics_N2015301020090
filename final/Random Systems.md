@@ -4,7 +4,7 @@ Name:贾雪巍
 
 Student number:201530120090
 
-##Random Walks&Diffusion
+## Random Walks&Diffusion
 
 1.Random walk is a model describes a process in which a walker moves one step a time,according to certain rules.The simplest situation involves a walker that is able to take steps of length unity along a line.The walker begins at the origin.Each step can be towards right or left with equal probability.We can stimulate the displacement of the walker after N steps(time).Use the Monte Carlo sampling.First generate a random number between 0 and 1 and determine the direction of the step.We can also calculate the mean displacement and the average of square of the displacement and the 2 or 3 dimensional cases.
 
@@ -20,23 +20,23 @@ If we know the initial distribution we'll get the solution at future times.
 
    Divide the system into a square grid.State i correspond to the particles in the cell i at any particular time and Pi is the probability of finding the particle in this cell at particular time.
 
-   ## [Codes]()
+## [Codes](https://github.com/jxw666/computationalphysics_N2015301020090/tree/master/final)
 
-   ## Results&Anylasis
+## Results&Anylasis
 
    1.One dimensional random walk
 
-   ![1](/Users/apple/Desktop/计算物理final/1.png)
+   ![1](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/1.png)
 
 Here I draw two walker's displacements versus time
 
 The following figures are get from the average of 5000 walkers.
 
-![2](/Users/apple/Desktop/计算物理final/2.png)
+![2](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/2.png)
 
 We can see that the mean displacement is close to zero as expected.Because it's equal likely to go left and right.
 
-![3](/Users/apple/Desktop/计算物理final/4.png)
+![3](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/3.png)
 
 We see that the averages of the square of the displacement is well described by a straight line.The RED line is the stimulation of the dots.Y=0.989960976898X+0.315882666666.
 
@@ -54,7 +54,7 @@ Use the same method the average of x^4 is
 
 here's the result I got
 
-![4](/Users/apple/Desktop/计算物理final/4.png)
+![4](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/4.png)
 
 
 
@@ -63,33 +63,33 @@ here's the result I got
 
 2.one dimensional but random length
 
-![5](/Users/apple/Desktop/计算物理final/5.png)
+![5](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/5.png)
 
-![6](/Users/apple/Desktop/计算物理final/6.png)
+![6](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/6.png)
 
 The mean average is also close to zero.
 
-![7](/Users/apple/Desktop/计算物理final/7.png)
+![7](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/7.png)
 
 The RED line is y=0.346211421082x -0.0849232487711
 
-![8](/Users/apple/Desktop/计算物理final/8.png)
+![8](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/8.png)
 
 The RED line is y=2.94218790678x^2 -6.59728183121x+ 63.7786218824
 
 3.two&three dimensions
 
-![9](/Users/apple/Desktop/计算物理final/9.png)
+![9](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/9.png)
 
-![10](/Users/apple/Desktop/计算物理final/10.png)
+![10](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/10.png)
 
 The stimulation result is y=1.01732169697x+0.22355830303
 
-![11](/Users/apple/Desktop/计算物理final/11.png)
+![11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/11.png)
 
 
 
-![12](/Users/apple/Desktop/计算物理final/12.png)
+![12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/12.png)
 
 The stimulation result is y=1.62234589019 x-0.981333454546
 
@@ -103,11 +103,11 @@ We can see how the particles diffuse in this way without knowing the details of 
 
 5.Consider two dimension random walk problem. First we set a number of particle in the center area which is shaped as a square. Then let them do random walk to up,down,left and right in four directions. The only limit is once they are reach the edge of the area they can not pass it. Then we observe the whole random particle picture in different time.
 
-![14](/Users/apple/Desktop/计算物理final/14.png)
+![14](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/13.png)
 
 Then calculate the entropy we get
 
-![entropy](/Users/apple/Desktop/计算物理final/entropy.png)
+![entropy](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/entropy.png)
 
 During the process th entropy increase and seemingly is going to approach a constant value.This illustrates how a closed system approaches equilibrium.
 
