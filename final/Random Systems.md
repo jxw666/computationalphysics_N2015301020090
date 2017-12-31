@@ -97,13 +97,13 @@ The stimulation result is y=1.62234589019 x-0.981333454546
 
 Set all particle at the center at the beginning, then let them do random walk in one dimension .For 1000 walkers after 10,100,500,2000,4000,8000 time steps we get
 
-![13](/Users/apple/Desktop/计算物理final/13.png)
+![13](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/13.png)
 
 We can see how the particles diffuse in this way without knowing the details of particles' motion.
 
 5.Consider two dimension random walk problem. First we set a number of particle in the center area which is shaped as a square. Then let them do random walk to up,down,left and right in four directions. The only limit is once they are reach the edge of the area they can not pass it. Then we observe the whole random particle picture in different time.
 
-![14](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/13.png)
+![14](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/14.png）
 
 Then calculate the entropy we get
 
