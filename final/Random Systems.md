@@ -103,7 +103,7 @@ We can see how the particles diffuse in this way without knowing the details of 
 
 5.Consider two dimension random walk problem. First we set a number of particle in the center area which is shaped as a square. Then let them do random walk to up,down,left and right in four directions. The only limit is once they are reach the edge of the area they can not pass it. Then we observe the whole random particle picture in different time.
 
-![14](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/14.png）
+![14](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/14.png)
 
 Then calculate the entropy we get
 
