@@ -33,3 +33,4 @@ Homework List
 Three body problem
 ## [Homework_11](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/CH5/Electric%20Potentials%20.md)
 ## [Homework_12](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/ch6/Waves:%20The%20ideal%20Case.md)
+## [Final project](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/Random%20Systems.md)
