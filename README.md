@@ -36,4 +36,4 @@ Three body problem
 ## [Final project](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/Random%20Systems.md)
 [**Final project_markdown**](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/final/Random%20Systems.md)
 
-[a simple try](https://github.com/jxw666/computationalphysics_N2015301020090/blob/master/a%20simple%20one.md)
+
